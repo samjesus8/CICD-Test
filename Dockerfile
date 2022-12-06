@@ -2,6 +2,6 @@ FROM python:slim
 
 WORKDIR /app/
 
-RUN pip install ??? ???
+RUN pip install pytest black
 
 COPY . .
