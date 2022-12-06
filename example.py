@@ -1,7 +1,8 @@
-def add(a,b):
+def add(a, b):
     result = a + b
     return result
 
-def multiply(a,b):
+
+def multiply(a, b):
     result = a * b
     return result
